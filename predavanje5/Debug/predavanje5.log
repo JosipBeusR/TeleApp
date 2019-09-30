@@ -1,0 +1,3 @@
+﻿ContactInfo.obj : error LNK2019: unresolved external symbol "public: __thiscall Address::~Address(void)" (??1Address@@QAE@XZ) referenced in function "public: void * __thiscall Address::`scalar deleting destructor'(unsigned int)" (??_GAddress@@QAEPAXI@Z)
+Contract.obj : error LNK2019: unresolved external symbol "public: __thiscall Packet::~Packet(void)" (??1Packet@@QAE@XZ) referenced in function "public: void * __thiscall Packet::`scalar deleting destructor'(unsigned int)" (??_GPacket@@QAEPAXI@Z)
+C:\Users\C Programiranje\Source\Repos\predavanje5\Debug\predavanje5.exe : fatal error LNK1120: 2 unresolved externals
